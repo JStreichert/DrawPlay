@@ -55,6 +55,8 @@ public class Cat {
 		// Draws right cat ear
 		g2.setColor(Color.black);
 		g2.fillPolygon(new int[] {150, 125, 100}, new int[] {100, 10, 50}, 3);
+		// draws the left ear
+		g2.fillPolygon(new int[] {100, 75, 50}, new int[] {50, 10, 100}, 3);
 
 		
 	}
