@@ -1,6 +1,7 @@
 import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;
+import java.awt.Graphics;
 /**
  * 
  *Changing something to test push and pull
@@ -48,12 +49,20 @@ public class Cat {
 		g2.setColor(Color.black);
 		// Meow text appears below cat head, +10 places below 
 		// so it doesn't overlap the drawing
+<<<<<<< HEAD
 		g2.drawString("Meow", catX, catY+HEAD_DIMENSION+10);
 		
 		g2.setColor(Color.black);
 		g2.fillPolygon(new int[] {100, 75, 50}, new int[] {50, 10, 100}, 3);
 		g2.fillPolygon(new int[] {150, 125, 100}, new int[] {100, 10, 50}, 3);
 		//g2.s
+=======
+		g2.drawString("Meow", catX, catY+HEAD_DIMENSION+10);	
+		
+		// Draws right cat ear
+		g2.setColor(Color.black);
+		g2.fillPolygon(new int[] {150, 125, 100}, new int[] {100, 10, 50}, 3);
+>>>>>>> 9275619796dc209a1b2e241cfe19be7ea4792587
 		
 	}
 }
