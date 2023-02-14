@@ -1,0 +1,42 @@
+commit c383c7653d4b4017109400fabac446c28c703e68
+Author: Jenelle Gilliland <jenellegilliland@gmail.com>
+Date:   Tue Feb 14 10:28:47 2023 -0700
+
+    added left ear
+
+commit c9893fc4dc20fdfc1a01c5a87f408bf2cadfb920
+Author: Jonah Streichert <jonah.streichert@gmail.com>
+Date:   Tue Feb 14 10:26:02 2023 -0700
+
+    Fixing merge conflict
+
+commit 2a5715eaf9d3b7075c845a67d0e9da858299154d
+Merge: ee1d1e9 9275619
+Author: Jenelle Gilliland <jenellegilliland@gmail.com>
+Date:   Tue Feb 14 10:22:51 2023 -0700
+
+    fixing merge conflicts
+
+commit ee1d1e90993cbd47f6fe5f534dd3e3bf6d481c54
+Author: Jenelle Gilliland <jenellegilliland@gmail.com>
+Date:   Tue Feb 14 10:18:42 2023 -0700
+
+    testing another commit
+
+commit 9275619796dc209a1b2e241cfe19be7ea4792587
+Author: Jonah Streichert <jonah.streichert@gmail.com>
+Date:   Tue Feb 14 10:14:35 2023 -0700
+
+    Added Right ear
+
+commit 78f9e7f8287f4ba70225652634681c24fbc66f17
+Author: Jenelle Gilliland <jenellegilliland@gmail.com>
+Date:   Mon Feb 13 15:58:14 2023 -0700
+
+    added a test comment to see if changes work
+
+commit 4a78f1a2ec2c6d644ff0a9e9fd05d322d23044be
+Author: Jonah Streichert <jonah.streichert@gmail.com>
+Date:   Mon Feb 13 10:43:33 2023 -0700
+
+    Initial Commit
